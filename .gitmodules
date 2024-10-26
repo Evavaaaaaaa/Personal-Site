@@ -1,0 +1,6 @@
+[submodule "albatros"]
+	path = themes/albatros
+	url = https://git.42l.fr/HugoTrentesaux/albatros.git
+[submodule "themes/abridge"]
+	path = themes/abridge
+	url = https://github.com/jieiku/abridge.git
