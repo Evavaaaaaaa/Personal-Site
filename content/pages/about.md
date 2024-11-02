@@ -5,10 +5,8 @@ template = "pages.html"
 draft = false
 +++
 
-This site provides a demo for the [abridge theme](https://github.com/Jieiku/abridge) for [Zola](https://www.getzola.org/) the static site generator.
+Welcome to YiHua Chan's corner of the internet! 
 
-Abridge was created by [Jake G (jieiku)](https://github.com/Jieiku) to be fast and lightweight, using semantic html, a class-light [abridge.css](https://github.com/Jieiku/abridge.css), and No Mandatory JS.
+This digital garden takes root from inspiring creators [swyx](ttps://www.swyx.io/digital-garden-tos), [PJ Wu](https://pinchlime.com/) and [Ian Hsiao](https://ianhsiao.xyz/) - big thanks for your work, they spark inspirations!
 
-Nearly half of the existing Zola MIT themes were inspiration for features and design of this theme.
-
-Abridge is licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Shout out to [Jake G (jieiku)](https://github.com/Jieiku) for the Abridge template, the soil that made this garden possible.  
