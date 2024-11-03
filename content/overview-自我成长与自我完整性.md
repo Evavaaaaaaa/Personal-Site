@@ -1,7 +1,7 @@
 +++
 title = "自我完整性与自我成长"
 description = "过度反思与先做再说"
-date = 2024-11-15T17:57:00+08:00
+date = 2024-11-02T17:57:00+08:00
 draft = false
 
 [taxonomies]
