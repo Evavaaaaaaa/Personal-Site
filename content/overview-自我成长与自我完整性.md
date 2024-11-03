@@ -7,7 +7,7 @@ draft = false
 [taxonomies]
 tags = ["Features","思考日记"]
 [extra]
-keywords = "life, reflection"
+keywords = "人生，思考，反思，日记，自我成长，自我完整性"
 toc = true
 series = "Features"
 +++
