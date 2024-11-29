@@ -1,11 +1,11 @@
 +++
-title = "[工作思考] 初入行业怎么做资料整合"
+title = "初入行业怎么做资料整合"
 description = "记录思考"
 date = 2024-11-07T13:00:00+08:00
-draft = false
+draft = true
 
 [taxonomies]
-tags = ["Features","工作思考"]
+tags = ["Features","Thoughts"]
 [extra]
 keywords = "Reflect, work"
 toc = true
