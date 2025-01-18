@@ -24,7 +24,7 @@ I’m looking forward for a more internationalized RedNote community!
 
 **User Engagement:** RedNote uses a specific calculation method called “CES” to determine if they like a particular post. If the user liked your post, you will gain 1 point. The same goes for collection. If the user commented your post, you will get a higher weightage - 4 points. And if the user followed you, you will get 8 points. The higher score you get, the more likely your post would be recommended to a broader audience.
 
-![2c5681ad7a5e001c7d12419903a7420.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b46b2292-5b99-48b8-9bdf-53fd4bda19c7/561aead6-bc08-4b9c-80ed-119fdd9e54f2/2c5681ad7a5e001c7d12419903a7420.png)
+![20250119013007.png](20250119013007.png)
 
 **Search Keyword Matching:** RedNote recommendation algorithm pushes content based on keywords searched by users. When your post contains keywords that users search for, it is more likely to be recommended to those users. Therefore, when writing posts, use keywords strategically to increase the chances of being searched and recommended.
 
@@ -36,7 +36,7 @@ I’m looking forward for a more internationalized RedNote community!
 
 RedNote has a very female-based community, with 70% of the users being female (CBN data, 2022). Additionally, the users are mostly from the Gen Z, ranging between 18 to 24 years old.
 
-![10eccf1d8580c31f79d03efc1f2f84c.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b46b2292-5b99-48b8-9bdf-53fd4bda19c7/96bd8c50-ff7e-4289-8921-5d743b3338a4/10eccf1d8580c31f79d03efc1f2f84c.png)
+![20250119012948.png](20250119012948.png)
 
 The user types could be roughly categorized into 4 types:
 
