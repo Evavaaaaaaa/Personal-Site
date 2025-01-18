@@ -2,7 +2,7 @@
 title = "致敬自己無數個失眠的夜晚"
 description = "记录思考"
 date = 2025-01-19T13:00:00+08:00
-draft = true
+draft = false
 
 [taxonomies]
 tags = ["Features","Thoughts"]
