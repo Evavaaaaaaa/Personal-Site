@@ -1,7 +1,7 @@
 +++
 title = "TikTok to RedNote: The Ultimate Guidance"
 description = "A short introduction to RedNote"
-date = 2024-11-02T17:57:00+08:00
+date = 2025-01-10T17:57:00+08:00
 draft = false
 
 [taxonomies]

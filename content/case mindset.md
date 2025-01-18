@@ -1,7 +1,7 @@
 +++
 title = "Consulting Case Mindset"
 description = "my unimportant thoughts"
-date = 2024-12-013T11:10:00+08:00
+date = 2024-12-13T11:10:00+08:00
 draft = false
 
 [taxonomies]
