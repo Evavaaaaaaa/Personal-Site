@@ -1,6 +1,7 @@
 .env
 public
-themes
+themes/*
+!themes/zola-inky/
 build
 storage
 node_modules

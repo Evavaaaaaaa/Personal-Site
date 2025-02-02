@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "npm run abridge -- '--base-url https://chanyihua.com'"
+command = "git submodule update --init --recursive && npm run abridge -- '--base-url https://chanyihua.com'"
 
 [build.environment]
 ZOLA_VERSION = "0.19.1"
