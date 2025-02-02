@@ -6,7 +6,7 @@ base_url = "https://chanyihua.com"
 
 title = "YiHua Chan"
 description = "YiHua Chan's Blog"
-#theme = "abridge"
+theme = "zola-inky"
 
 default_language = "en"
 compile_sass = true
