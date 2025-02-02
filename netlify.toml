@@ -1,8 +1,14 @@
 [build]
+command = """
+  git submodule init && \
+  git submodule update && \
+  npm install && \
+  npm run abridge -- '--base-url https://chanyihua.com'
+"""
 publish = "public"
-command = "git submodule update --init --recursive && npm run abridge -- '--base-url https://chanyihua.com'"
 
 [build.environment]
+NODE_VERSION = "16"
 ZOLA_VERSION = "0.19.1"
 
 [context.deploy-preview]
