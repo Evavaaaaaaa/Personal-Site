@@ -5,7 +5,7 @@
   "author": "Jake G <106644+Jieiku@users.noreply.github.com>",
   "license": "MIT",
   "homepage": "https://github.com/Jieiku/abridge",
-  "scripts":
+  "scripts":{
     "abridge": "node package_abridge.js"
   },
   "dependencies": {
