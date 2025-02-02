@@ -1,11 +1,20 @@
-.env
-public
+# Remove or comment out Abridge-specific entries
+# node_modules/
+# package-lock.json
+# public/
+# static/js/
+# static/css/
+
+# Keep these entries
+public/
+.DS_Store
+.idea/
+
+# Allow theme submodules but ignore other theme content
 themes/*
 !themes/zola-inky/
 build
 storage
-node_modules
-package-lock.json
 static/demo.html
 static/tinysearch_engine.js
 static/tinysearch_engine.d.ts
