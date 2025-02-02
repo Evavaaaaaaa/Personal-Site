@@ -1,17 +1,12 @@
 [build]
-command = """
-  wget -qO- https://github.com/getzola/zola/releases/download/v0.17.2/zola-v0.17.2-x86_64-unknown-linux-gnu.tar.gz | tar xzf - && \
-  ./zola --version && \
-  ./zola build --base-url $URL
-"""
 publish = "public"
+command = "zola build --base-url https://chanyihua.com"
 
 [build.environment]
-URL = "https://chanyihua.com"
 ZOLA_VERSION = "0.17.2"
 
 [context.deploy-preview]
-command = "npm run abridge -- '--drafts --base-url https://chanyihua.com'"
+command = "zola build --base-url https://chanyihua.com"
 
 [[headers]]
   for = "/*"
